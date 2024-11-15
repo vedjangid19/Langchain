@@ -8,3 +8,5 @@ bs4
 arxiv
 pymupdf
 wikipedia
+langchain-text-splitters
+lxml
