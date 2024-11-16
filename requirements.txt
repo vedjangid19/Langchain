@@ -10,3 +10,10 @@ pymupdf
 wikipedia
 langchain-text-splitters
 lxml
+langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+langchain_chroma
+
