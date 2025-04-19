@@ -38,7 +38,7 @@ def generate_response(question, api_key, llm, temperature, max_tokens):
 
     return response
 
-
+ 
 # Streamlit App
 st.title("Enhanced Q&A ChatBot With OpenAI")
 st.sidebar.title("Setting")
