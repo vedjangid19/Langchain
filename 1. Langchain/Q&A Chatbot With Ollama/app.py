@@ -10,7 +10,7 @@ load_dotenv()
 os.environ['LANGCHAIN_API_KEY'] = os.getenv('LANGCHAIN_API_KEY')
 os.environ['LANGCHIN_TRACING_V2'] = "true"
 os.environ['PROJECT_NAME'] = "Q&A-CHATBOT"
-
+ 
 prompt = ChatPromptTemplate(
     [
         ("system", "you are a helpful chat assistance please provide answer based on user query."),
