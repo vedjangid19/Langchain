@@ -29,7 +29,7 @@ os.environ['HF_TOKEN'] = os.getenv('HF_TOKEN')
 groq_api_key = os.getenv('GROQ_API_KEY')
 embeddings = HuggingFaceEmbeddings(model_name="all-miniLM-L6-v2")
 # embeddings = OpenAIEmbeddings()
-
+ 
 
 st.title("Conversational Rag with PDF Upload and Chat History")
 st.write("Upload PDF file and chat with their content")
