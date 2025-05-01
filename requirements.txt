@@ -27,3 +27,6 @@ validators==0.28.1
 youtube_transcript_api
 pytube
 unstructured
+
+
+langchain_nvidia_ai_endpoints
