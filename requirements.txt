@@ -34,3 +34,5 @@ langchain_nvidia_ai_endpoints
 
 lamini
 langchain_experimental
+
+langgraph
